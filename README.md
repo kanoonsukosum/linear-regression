@@ -18,6 +18,6 @@ Although this project's content is provided under CC0 1.0, the datasets used fro
 Ensure Python 3.x is installed on your system. Clone this repository, then install the required libraries using pip: ``pip install numpy matplotlib pandas scipy scikit-learn``
 
 ## Usage
-Run the script from your terminal or command prompt: ``python linear_regression_analysis.py``
+Run the script from your terminal or command prompt: ``python linear_regress.py``
 
 The script will perform linear regression analysis on the dataset, outputting the regression coefficients, R-squared value, and generating plots to visualize the data and the regression line.
