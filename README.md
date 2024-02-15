@@ -1,7 +1,7 @@
 # Linear Regression Analysis with World Bank Data
 
 ## Description
-This project is a Python-based analysis that applies the concept of linear regression to a real-world dataset provided by The World Bank. Utilizing popular Python libraries such as NumPy, Matplotlib, pandas, SciPy, and scikit-learn, the script demonstrates how to perform linear regression, visualize data, and evaluate the model's performance using the R-squared metric. This project serves as a practical example of applying data science techniques to understand and interpret global economic indicators.
+This project leverages Python to implement linear regression on real-world data from The World Bank, focusing on Japan's unemployment rates and GDP. It uses libraries like NumPy, Matplotlib, pandas, SciPy, and scikit-learn to conduct the analysis, visualize results, and assess model accuracy with the R-squared metric. This endeavor bridges classroom concepts with practical data analysis, offering hands-on experience with Python and scientific computing frameworks.
 
 ## Dataset Source
 Data for this analysis is sourced from The World Bank's country-specific datasets, available at [The World Bank - Country Data](https://data.worldbank.org/country). These datasets are under the Creative Commons Attribution 4.0 International License (CC BY 4.0), which allows for adaptation and use in any manner, provided appropriate attribution is given.
